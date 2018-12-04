@@ -4,11 +4,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Background"
       href: about.html
+    - text: "Datasets"
+      href: data.html
+    - text: "Contact"
+      href: contact.html
 output:
   html_document:
-    theme: minimal
     include:
       after_body: footer.html
     css: styles.css
