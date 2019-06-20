@@ -3,3 +3,10 @@ title: "Alexandra Bannach-Brown"
 ---
 
 My name is Alexandra. I am post-doctoral research fellow at the Institute for Evidence-Based Practice at Bond University. 
+
+
+<!-- # ```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '25%'} -->
+<!-- # knitr::include_graphics("temp.png") -->
+<!-- # ``` -->
+
+

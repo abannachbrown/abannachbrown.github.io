@@ -3,7 +3,6 @@ title: "Contact"
 output: html_document
 ---
 
-# Contact Me
 For more information please contact alexandra_bannachbrown<a>bond.edu.au
 
 To follow me on Twitter: <a href="www.twitter.com/abannachbrown" target="_blank"> @ABannachBrown</a>
