@@ -2,7 +2,10 @@
 title: "Alexandra Bannach-Brown"
 ---
 
-My name is Alexandra. I am post-doctoral research fellow at the Institute for Evidence-Based Practice at Bond University. 
+My name is Alexandra. I am post-doctoral research fellow at the Institute for Evidence-Based Practice at Bond University with expertise and interests in evidence synthesis, open science and the automation of systematic reviews.
+
+
+My research involves developing and implementing automation tools to reduce waste in healthcare and biomedical research and improve research quality.
 
 
 <!-- # ```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '25%'} -->
