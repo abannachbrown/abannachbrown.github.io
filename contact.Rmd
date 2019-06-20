@@ -4,5 +4,5 @@ output: html_document
 ---
 
 Current academic address: 
-Centre for Research in Evidence-Based Practice
+Institue for Evidence-Based Healthcare
 Bond University
