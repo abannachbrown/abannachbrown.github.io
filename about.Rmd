@@ -1,7 +1,7 @@
 ---
 title: "Background"
 ---
-
+</br>
 
 **PhD 2019 - Understanding *in vivo* modelling of Depression**
 
@@ -23,13 +23,13 @@ title: "Background"
 
 Bannach-Brown, A., (August, 2017). Machine Learning Approaches to Assist Screening in Preclinical Systematic Reviews. Platform presentation at: 4th International Symposium on Systematic Review and Meta-Analysis of Laboratory Animal Studies, NIEHS, NC, USA
  
-
+</br>
 
 **MSc in Integrative Neuroscience 2015 - Motor Symptoms in Dementia as Measured by the EMAS & Relationships to MRI Biomarkers**
 
 University of Edinburgh. Supervisor: Dr Thomas Bak. 
 
-
+</br>
 
 **BSc in Psychology 2014 - <a href="http://e-space.mmu.ac.uk/576663/" target="_blank">Visio-Motor Integration in Developmental Dyslexia</a>.**
 
